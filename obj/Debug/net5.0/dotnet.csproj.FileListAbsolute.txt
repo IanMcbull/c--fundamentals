@@ -1,0 +1,16 @@
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/dotnet
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/dotnet.deps.json
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/dotnet.runtimeconfig.json
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/dotnet.runtimeconfig.dev.json
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/dotnet.dll
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/ref/dotnet.dll
+/home/ian/dotnet/c--fundamentals/bin/Debug/net5.0/dotnet.pdb
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.csproj.AssemblyReference.cache
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.AssemblyInfoInputs.cache
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.AssemblyInfo.cs
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.csproj.CoreCompileInputs.cache
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.dll
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/ref/dotnet.dll
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.pdb
+/home/ian/dotnet/c--fundamentals/obj/Debug/net5.0/dotnet.genruntimeconfig.cache
